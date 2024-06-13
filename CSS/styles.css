@@ -1,0 +1,17 @@
+body 
+{
+    background-color: silver;
+}
+h2
+{
+    font-size: 2rem;
+    color:black;
+    text-align: center;
+    padding: 2rem;
+}
+.yo
+{
+    width: black;
+    height: grey;
+    border-radius: 50%;
+}

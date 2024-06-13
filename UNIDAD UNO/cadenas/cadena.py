@@ -1,0 +1,5 @@
+print("Realiza un programa para que el usuario pueda convertir caracteres en cadena")
+saul=str(input("Dame el primer caracter:"))
+brian=str(input("Dame el segundo caracter:"))    
+liz=str(input("dame el tercer caracter: "))
+print("La cadena es:",saul + brian + liz)   
